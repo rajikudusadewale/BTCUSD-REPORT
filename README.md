@@ -1,5 +1,7 @@
 # BTCUSD PERFORMANCE DASHBOARD, AND FORECAST REPORT
 
+Data Source: Yahoo Finance (https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1410912000&period2=1678147200&interval=1mo&events=history&includeAdjustedClose=true)
+
 I created a #PowerBI dashboard for #cryptocurrency Users that wanted to #analyze #btcusd performance since September 2014 till date. The dashboard had several visuals that highlighted average prices and trends.
 First, created a Date Slicer, This allowed users to select date range to see #BTCUSD average prices, pattern, trends, and performances for the selected date range.
 I created #metrics and visuals that showed the performance of #BTCUSD over 10 years. This allowed #BTCUSD users to identify the days, months, and years BTCUSD pumped most and compare the performance of other months and years.
