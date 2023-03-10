@@ -1,8 +1,6 @@
-Power BI
+# Power BI
 
-
-
-# BTCUSD PERFORMANCE DASHBOARD, AND FORECAST REPORT
+BTCUSD PERFORMANCE DASHBOARD, AND FORECAST REPORT
 
 Data Source: Yahoo Finance (https://query1.finance.yahoo.com/v7/finance/download/BTC-USD?period1=1410912000&period2=1678147200&interval=1mo&events=history&includeAdjustedClose=true)
 
